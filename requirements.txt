@@ -1,0 +1,4 @@
+Python 3.7+
+Streamlit
+SQLite3
+Pandas
